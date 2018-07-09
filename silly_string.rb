@@ -37,9 +37,9 @@ puts "There are now #{new_letter_count} in #{bigger_word}"
 
 # Challenge 6: Capitalize this sentence properly
 
-proper_sentence = "i really like programming."
+proper_sentence = "i really like programming.".capitalize
 
-puts proper_sentence.capitalize
+puts proper_sentence
 
 # Challenge 7: String Switcheroo
 sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
