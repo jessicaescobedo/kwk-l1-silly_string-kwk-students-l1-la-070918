@@ -33,7 +33,7 @@ bigger_word = big_word + " wow " and "mom"
 
 new_letter_count = bigger_word.length
 
-puts "There are now #{new_letter_count} in #{bigger_word}" + "wow" + "mom"
+puts "There are now #{new_letter_count} in #{bigger_word}"
 
 # Challenge 6: Capitalize this sentence properly
 
